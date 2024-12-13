@@ -62,10 +62,10 @@ El enfoque combinó análisis de datos, estandarización, generación de caracte
 
 ## Resultados
 ### Resultados obtenidos en entrenamiento:
-- *(Agregar resultados específicos aquí)*
+- *Ver presentación.*
 
 ### Resultados obtenidos en test:
-- *(Agregar resultados específicos aquí)*
+- *Ver presentación.*
 
 ---
 
